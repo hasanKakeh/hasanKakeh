@@ -9,6 +9,15 @@
   <a  href="mailto:karim.mamdouh.594@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
   </a>&nbsp;&nbsp;
+  
+  <h5>
+  About Me
+
+  </h5>
+  <p>
+I'm a software engineer with a passion for building things. I'm currently working as frontend developer. In my spare time, I enjoy [Your Hobbies].
+
+I'm always looking for new opportunities to learn and grow. If you have any suggestions, please feel free to reach out to me.</p>
 </div>
 <!--
 **hasanKakeh/hasanKakeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
