@@ -4,10 +4,10 @@
 
   <div align='center'>
     <p>Contact Me: </p>
-    <a href="https://www.linkedin.com/in/karim-mamdouh-mohamed/">
+    <a target="_blank" href="https://www.linkedin.com/in/hasan-kakeh-a07b571b9/">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>&nbsp;&nbsp;
-    <a  href="mailto:karim.mamdouh.594@gmail.com">
+    <a target="_blank" href="mailto:hasan.kakeh1@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
     </a>&nbsp;&nbsp;
 
