@@ -3,10 +3,10 @@
 
 <div align='center'>
   <p>Contact Me: </p>
-  <a style="text-decoration: none !important;" href="https://www.linkedin.com/in/karim-mamdouh-mohamed/">
+  <a href="https://www.linkedin.com/in/karim-mamdouh-mohamed/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a style="text-decoration: none !important;" href="mailto:karim.mamdouh.594@gmail.com">
+  <a  href="mailto:karim.mamdouh.594@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
   </a>&nbsp;&nbsp;
 </div>
