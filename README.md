@@ -1,7 +1,4 @@
-<head>
-  <link rel="stylesheet" type="text/css" href="styles.css">
-</head>
-<body>
+
   <h1 align="center">Hi there 👋 I'm Hasan 😁</h1>
   <h3 align="center">Software Engineer | Frontend Developer (Angular) </h3>
 
@@ -24,4 +21,3 @@
     </p>
   </div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanKakeh&theme=blue-green&hide_progress=true" />
-</body>
