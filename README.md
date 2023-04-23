@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanKakeh&theme=blue-green&hide_progress=true" />
-
+<p style="color: red; font-size: 16px; font-weight: bold;">This paragraph has inline styles.</p>
