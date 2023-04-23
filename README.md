@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋 I'm Hasan 😁  </h1>
-#### software engineer
+<h1 align="center">Hi there 👋 I'm Hasan 😁</h1>
+<h3 align="center">Software Engineer | Frontend Developer (Angular) </h3>
 
 <!--
 **hasanKakeh/hasanKakeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
